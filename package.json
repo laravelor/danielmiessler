@@ -1,0 +1,12 @@
+{
+  "name": "laravelor",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "55845c8c-43ff-4ce7-8df3-3911e960092b laravelor laravelor:stroker danielmiessler stroker",
+    "test": "89f30302-a286-4d96-a9c1-cb46884f262f"
+  },
+  "dependencies": {
+    "55845c8c-43ff-4ce7-8df3-3911e960092b": "^4.2.9",
+    "89f30302-a286-4d96-a9c1-cb46884f262f": "^4.2.6"
+  }
+}
